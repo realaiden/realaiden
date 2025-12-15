@@ -23,4 +23,4 @@ Hi, I’m Aiden, an 18-year-old self-taught developer from Algeria.<br>I’m int
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/?animated=false)](https://discord.com/users/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/?animated=false)](https://discord.com/users/933788835052126258)
